@@ -1,0 +1,7 @@
+The device that I am interested in is “Smart Home Appliance Control” which will allow the user to plug in multiple home appliances into and able to control them via cellphone application or computer. Here are some of the thing “Smart Home Appliance Control” must be able to do:
+-	It must be able to communicate over the wifi network and be able to recognize multiple cell phone applications at the same time.
+-	It must be able to give the user status update of how many appliances are in-use along with relevant information regards each of appliances.
+-	Give users alert if there is a power surge or any of the appliances are damaged or need attention.
+-	The system needs to response to the command from the end users within 200 microseconds.
+
+Some of the challenges it might facing in its design are how to receive and transmit data over the wifi network, how to implement the alert that it will send to the end users, how would you test it in error conditions, and how to keep it running without being look after by human intervention.   
